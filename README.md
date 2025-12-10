@@ -4,8 +4,8 @@
 
 
 
-- 🔭 I’m currently working on Tenzor Soft
-- 🌱 I’m currently learning Kotlin/AI
+- 🔭 I’m currently working on Agrobank
+- 🌱 I’m currently learning Spring AI
 - 💬 Ask me about : anything without personal information
 - 📫 How to reach me: imamashukurov@gmail.com
 - 😄 Pronouns: Ilyosbek , Ilyoskhoja
